@@ -1,3 +1,3 @@
 object Test {
-
+// test comment
 }
